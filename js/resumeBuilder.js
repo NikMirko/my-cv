@@ -7,7 +7,7 @@ var bio = {
 		"email": "nishmirko@icloud.com",
 		"github": "NikMirko",
 		"twitter": "nMikz",
-		"location": "Melbourne"},
+		"location": "Adelaide"},
 		"welcomeMessage": "Welcome to my online resumè! If you like what you see, please get in touch &uarr;",
 		"skills":["Web and Graphic design using HTML/CSS, JS","Programming in Python, Java","Bilingual in English and Italian"],
 		"bioPic": "images/me.jpg",
